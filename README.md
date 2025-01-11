@@ -1,7 +1,3 @@
-<a href="https://github.com/Shandilya21/stock_movement_prediction/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Shandilya21/stock_movement_prediction"></a>
-<a href="https://github.com/Shandilya21/stock_movement_prediction/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Shandilya21/stock_movement_prediction"></a>
-<a href="https://github.com/Shandilya21/stock_movement_prediction/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Shandilya21/stock_movement_prediction"></a>
-
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
 *** make this better, please fork the repo and create a pull request or simply open
@@ -28,11 +24,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/Shandilya21/stock_movement_prediction">
-    <img src="plot/Plot_stock.png" alt="Logo" width="350" height="350">
-  </a>
-
   <h3 align="center">Predictive Model for Stock Price Movement</h3>
 <!-- 
   <p align="center">
@@ -81,29 +72,6 @@ Why we need this?
 * [Keras](https://keras.io/)
 * [Scikit-Learn](https://scikit-learn.org/)
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-Below the the basic step to reproduce the code with few commands.
-
-1. Clone the repository
-```
-git clone https://github.com/Shandilya21/stock_movement_prediction.git
-```
-
-### Prerequisites
-```
-pip install -r requirement.txt
-```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-The code is working for Apple Inc. stock price, Also you can produce results for other sock prices and amake a comparable plot. The default number of epochs = 5. Feel free to set the epochs from Stockprediction.py. 
-
-```
-python3 Stockprediction.py   
-```
 ## Results
 
 <br />
@@ -195,12 +163,11 @@ Contributions are very welcome. If you know how to make this code better, please
 
 <!-- LICENSE -->
 <!-- ## License -->
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
 ## Contact
-Arunav Shandilya - arunavshandilya96@gmail.com
+Het Bhutak - hetbhutak@gmail.com
 
 <!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
 
