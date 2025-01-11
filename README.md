@@ -141,15 +141,6 @@ Here are few reported results related to few stocks with it's data chart
 <!-- ![](https://github.com/Shandilya21/stock_movement_prediction/raw/master/plot/results_new.png) -->
 
 <!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/Shandilya21/stock_movement_prediction/issues) for a list of proposed features (and known issues). Also, if you have any issue, feel free to open a new issue.
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are very welcome. If you know how to make this code better, please open an issue. If you want to submit a pull request, please open an issue first.
-
 ### TODO
 * Add Fundamental Analysis.
 * Add Sentiment Analysis in Stock Prediction.
