@@ -17,8 +17,7 @@ Matplotlib & Seaborn: For visualizing trends and patterns
 Basemap: To incorporate geographical visualizations, if required
 
 
-Objectives
-
+Objectives:
 Analyze trends in closing prices and trading volumes during the specified timeframe.
 Calculate key metrics, such as:
 Average closing price
@@ -27,13 +26,15 @@ Identify potential patterns or anomalies in the stock's historical performance.
 Predict future stock trends and assess earning opportunities.
 
 
-Summary Insights
+Summary Insights:
+
 The ADANIPORTS stock has shown varying trends in its performance over time.
 By analyzing historical data, we can uncover patterns in market behavior, providing a foundation for data-driven investment decisions.
 Observing the correlation between price movements and trading volume helps investors gauge stock volatility and potential future price revolutions.
 
 
-Conclusion
+Conclusion:
+
 The analysis of the MUNDRAPORT stock data offers valuable insights into the market's behavior during the studied period. By utilizing data science tools and techniques, we can derive actionable insights to understand past performance and anticipate future trends. This empowers investors to make informed decisions and capitalize on market opportunities.
 
 
