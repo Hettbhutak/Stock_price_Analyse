@@ -47,9 +47,8 @@
 
 * [About the Project](#about-the-project)
    * [Built With](#built-with)
-* [Getting Started](#getting-started)
-* [Prerequisites](#prerequisites)
-* [Usage](#usage)
+* [Results](#Results)
+* [Run Experiements](#Run Experiements)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -69,7 +68,7 @@ Why we need this?
 * [Keras](https://keras.io/)
 * [Scikit-Learn](https://scikit-learn.org/)
 
-## Results
+### Results
 
 <br />
 <p align="center">
